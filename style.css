@@ -1,0 +1,13 @@
+a{
+    text-decoration: none !important;
+    color:black !important;
+    transition: 0.5s;
+}
+a:hover{
+    color:rgb(112, 88, 88) !important;
+    
+}
+
+.img-pro:hover{
+    transform: scale(0.9);
+}
